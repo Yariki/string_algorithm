@@ -31,6 +31,7 @@ node* build_trie(vector<string> & patterns){
                 create_new_edge(currentSymbol, index, currentNode);
             } else if( (foundEdge = is_there_edge(currentNode,currentSymbol)) != nullptr ){
                 currentNode = foundEdge->nextNode;
+                foundEdge = nullptr;
             } else{
                 create_new_edge(currentSymbol, index, currentNode);
             }

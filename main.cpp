@@ -1,7 +1,9 @@
 
-#include "construct_trie.h"
+#include "trie_mathing.h"
 
 int main() {
-    construct_trie();
+    //construct_trie();
+
+    matching();
     return 0;
 }
