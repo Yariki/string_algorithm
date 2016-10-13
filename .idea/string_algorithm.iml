@@ -5,7 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/trie_mathing.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bwt.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/trie_mathing.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bwt.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/construct_trie.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/construst_trie.cpp" isTestSource="false" />
     </content>

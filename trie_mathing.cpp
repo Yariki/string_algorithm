@@ -15,6 +15,7 @@ string read_data(vector<string>& patterns){
         while(getline(file,line)){
             patterns.push_back(line);
         }
+        file.close();
     }
     return text;
 }

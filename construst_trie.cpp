@@ -57,6 +57,7 @@ vector<string> read_patterns(){
         while(getline(file,line)){
             patterns.push_back(line);
         }
+        file.close();
     }
     return patterns;
 }
